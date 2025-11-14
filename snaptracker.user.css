@@ -1,3 +1,11 @@
+/* ==UserStyle==
+@name           Snaptracker Modernizer
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    A userstyle to make Snaptracker's header full-width and improve button visibility.
+@author         JP
+==/UserStyle== */
+
 @-moz-document domain("snaptracker.kisp.com") {
 #MainFooter,
 #aspnetForm > br,
